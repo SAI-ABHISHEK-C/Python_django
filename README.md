@@ -1,9 +1,9 @@
-💻⚙️ Python × Django Full-Stack Projects
+## 💻⚙️ Python × Django Full-Stack Projects
 
 A collection of Full-Stack Web Applications built using 🐍 Python and ⚙️ Django, combining robust backend logic with sleek and responsive 🌐 frontends.
 Includes CRUD apps, API integrations, and authentication systems 🔒 — all crafted for learning, scalability, and professional growth 🚀.
 
-🌟 Features
+## 🌟 Features
 
 🧩 Modular and reusable components
 
@@ -17,7 +17,7 @@ Includes CRUD apps, API integrations, and authentication systems 🔒 — all cr
 
 🧱 Built with scalability and real-world deployment in mind
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 Layer	Technologies
 Frontend	HTML5 • CSS3 • JavaScript • Bootstrap/Tailwind
 Backend	Python • Django Framework
@@ -25,7 +25,7 @@ Database	SQLite / PostgreSQL
 Version Control	Git & GitHub
 Deployment	Vercel • Render • Railway (as applicable)
 
-🧠 Project Highlights
+## 🧠 Project Highlights
 
 CRUD Operations 📝
 
